@@ -3,7 +3,7 @@ steps:
   args:
   - 'run'
   - 'deploy'
-  - 'helloworld'
+  - 'helloworld2'
   - '--source'
   - '.'
   - '--platform'
